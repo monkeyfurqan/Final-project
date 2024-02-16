@@ -1,0 +1,4 @@
+0 fall
+1 rain
+2 summer
+3 winter
