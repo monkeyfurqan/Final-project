@@ -1,9 +1,7 @@
 # Final-project
 
-assalaikum wa rahmatullah wabarokato
+nama saya ahmad furqan putra al ihsan
 
-my name is ahmad furqan putra al ihsan
+hari ini saya akan menunjukkan kepada Anda tugas akhir saya
 
-today i will show you my final project
-
-which is a discord bot that show the image will know by the bot and give you resault and info about it.
+yang merupakan bot perselisihan yang menampilkan gambar akan diketahui oleh bot dan memberi Anda hasil dan info tentangnya.
